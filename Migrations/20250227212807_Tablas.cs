@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace PeliculasAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class tabalas : Migration
+    public partial class Tablas : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

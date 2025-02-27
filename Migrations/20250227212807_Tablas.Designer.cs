@@ -12,8 +12,8 @@ using PeliculasAPI;
 namespace PeliculasAPI.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250227212406_tabalas")]
-    partial class tabalas
+    [Migration("20250227212807_Tablas")]
+    partial class Tablas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
